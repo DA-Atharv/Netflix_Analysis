@@ -6,7 +6,7 @@ Netflix, a renowned subscription-based streaming service, boasts a vast library 
 
 <br>
 
-![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/aaecd3b5-8106-49c5-ba65-95ac2c7629a6)# Data Dictionary:
+# Data Dictionary:
 
 | Files | Description |
 |-------| ------------|
