@@ -45,7 +45,14 @@ The objective of the Netflix dataset is to analyze and understand the characteri
 
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/5a2cd44d-6a48-4f0b-a9ed-97956ffbd4e0)
 
+
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/5225589f-42d1-4dfd-903f-19d3fc39a67c)
+
+![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/570bf181-d86e-46e2-aa0a-e30e4a60c90f)
+
+![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/c14aced6-dd25-47c3-a751-499bdc062632)
+
+![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/5bffd5e7-b60d-4139-ad42-78de999d0151)
 
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/9b816212-6b5a-468e-9017-bdc53b1ab8f1)
 
