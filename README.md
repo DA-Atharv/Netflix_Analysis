@@ -2,7 +2,8 @@
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/7d63027b-cebf-45e7-bf75-2cefab974e5b)
 
 # Introduction:
-Netflix, a renowned subscription-based streaming service, boasts a vast library of films and television series, including original productions. This project aims to provide insightful data visualizations derived from the Netflix movies and TV shows dataset sourced from Kaggle "(https://www.kaggle.com/code/ridwanadejumo/basic-data-visualization-on-the-netflix-dataset)".  
+Netflix, a renowned subscription-based streaming service, boasts a vast library of films and television series, including original productions. This project aims to provide insightful data visualizations derived from the Netflix movies and TV shows dataset sourced from Kaggle (https://www.kaggle.com/code/ridwanadejumo/basic-data-visualization-on-the-netflix-dataset). 
+
 Leveraging Python programming along with libraries such as Numpy, Pandas, Matplotlib and Seaborn, I delve into various aspects including movies vs. series distribution, content trends over the years, genre preferences, top directors, and more. This project offers a comprehensive exploration of Netflix's content landscape through the lens of data analysis and visualization.
 
 # Data Dictionary:
@@ -45,6 +46,11 @@ The objective of the Netflix dataset is to analyze and understand the characteri
 
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/5a2cd44d-6a48-4f0b-a9ed-97956ffbd4e0)
 
+![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/c81ae9aa-39d5-49b6-a3eb-f43b6f98974f)
+
+![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/48edad6c-5108-4333-bcaa-0938672248fc)
+
+![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/d6d65139-ac22-4d8d-94dd-3b757f7c1a04)
 
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/5225589f-42d1-4dfd-903f-19d3fc39a67c)
 
@@ -56,7 +62,9 @@ The objective of the Netflix dataset is to analyze and understand the characteri
 
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/9b816212-6b5a-468e-9017-bdc53b1ab8f1)
 
-![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/025192fa-d0ca-46f7-add8-3816e51009c1)
+![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/6c8128c6-4a70-4cd9-88b5-5e19daee7ac2)
+
+![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/cad8fd76-a21c-449d-9fad-09ec50b1bdc2)
 
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/aa8db3b5-f2d6-4068-84b6-ba9d445fca89)
 
