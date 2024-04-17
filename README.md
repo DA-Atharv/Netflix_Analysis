@@ -8,7 +8,7 @@ Leveraging Python programming along with libraries such as Numpy, Pandas, Matplo
 # Data Dictionary:
 | Files | Description |
 |-------| ------------|
-| [Data](#Data) | This folder houses a comprehensive collection of Netflix data sourced from Kaggle with data ditionary. |
+| Data | This folder houses a comprehensive collection of Netflix data sourced from Kaggle with data ditionary. |
 | netflix_cleaned_data.ipynb | This file contains the code for data cleaning & transformation. |
 | netflix_analysis.ipynb | This file encompasses the code for a Netflix data analysis project. |
 | README.md | This is the Readme file of the project. |
@@ -33,6 +33,8 @@ The objective of the Netflix dataset is to analyze and understand the characteri
 - Analysis of actors and directors with the most content
 
 # Visualizations:
+![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/71d98837-e2e0-49f2-9b07-3c3ac96ace1c)
+
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/5daed9ce-3f2d-4208-a847-01191fd94547)
 
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/6259bcdc-1597-4959-9372-c617affd9ba4)
