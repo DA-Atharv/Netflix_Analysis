@@ -8,7 +8,7 @@ Leveraging Python programming along with libraries such as Numpy, Pandas, Matplo
 # Data Dictionary:
 | Files | Description |
 |-------| ------------|
-| Data https://github.com/DA-Atharv/Netflix_Analysis/tree/main/Data | This folder houses a comprehensive collection of Netflix data sourced from Kaggle with data ditionary. |
+| [Data](#https://github.com/DA-Atharv/Netflix_Analysis/tree/main/Data) | This folder houses a comprehensive collection of Netflix data sourced from Kaggle with data ditionary. |
 | netflix_cleaned_data.ipynb | This file contains the code for data cleaning & transformation. |
 | netflix_analysis.ipynb | This file encompasses the code for a Netflix data analysis project. |
 | README.md | This is the Readme file of the project. |
