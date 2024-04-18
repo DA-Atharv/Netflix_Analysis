@@ -1,26 +1,35 @@
 # Netflix_Analysis
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/7d63027b-cebf-45e7-bf75-2cefab974e5b)
+## Table of Contents
 
-# Introduction:
+- [Introduction](#introduction)
+- [Data Dictionary](#data-dictionary)
+- [Dataset Description](#data-description)
+- [Objective](#objective)
+- [Project Analysis](#project-analysis)
+- [Visualizations](#visualizations)
+- [Insights](#insights)
+
+# Introduction
 Netflix, a renowned subscription-based streaming service, boasts a vast library of films and television series, including original productions. This project aims to provide insightful data visualizations derived from the Netflix movies and TV shows dataset sourced from Kaggle (https://www.kaggle.com/code/ridwanadejumo/basic-data-visualization-on-the-netflix-dataset). 
 
 Leveraging Python programming along with libraries such as Numpy, Pandas, Matplotlib and Seaborn, I delve into various aspects including movies vs. series distribution, content trends over the years, genre preferences, top directors, and more. This project offers a comprehensive exploration of Netflix's content landscape through the lens of data analysis and visualization.
 
-# Data Dictionary:
+# Data Dictionary
 | Files | Description |
 |-------| ------------|
-| Data | This folder houses a comprehensive collection of Netflix data sourced from Kaggle with data ditionary. |
-| netflix_cleaned_data.ipynb | This file contains the code for data cleaning & transformation. |
-| netflix_analysis.ipynb | This file encompasses the code for a Netflix data analysis project. |
+| [Data](https://github.com/DA-Atharv/Netflix_Analysis/tree/main/Data) | This folder houses a comprehensive collection of Netflix data sourced from Kaggle with data ditionary. |
+| [netflix_cleaned_data.ipynb](https://github.com/DA-Atharv/Netflix_Analysis/blob/main/Netflix_Data_Cleaning.ipynb) | This file contains the code for data cleaning & transformation. |
+| [netflix_analysis.ipynb](https://github.com/DA-Atharv/Netflix_Analysis/blob/main/netflix_analysis.ipynb) | This file encompasses the code for a Netflix data analysis project. |
 | README.md | This is the Readme file of the project. |
 
-# Dataset Description:
+# Dataset Description
 The Netflix dataset used in this analysis comprises a comprehensive collection of information regarding the streaming platform's content. It includes attributes such as show ID, type (whether it's a movie or TV show), title, director, cast, country of production, date added to Netflix, release year, content rating, duration (in minutes for movies and in seasons for TV shows), genre/category, description, and metadata indicating the month and day the content was added. This dataset provides a rich source of information for exploring trends, preferences, and patterns in Netflix's content library, allowing for in-depth analysis of factors influencing viewer choices and content consumption habits.
 
-# Objective:
+# Objective
 The objective of the Netflix dataset is to analyze and understand the characteristics of the content available on Netflix. The dataset can be used to uncover patterns in the types of TV shows and movies that are popular on the platform, identify trends in the content produced by different countries, and explore the relationship between ratings and other features of the content. The dataset can also be used to develop recommendation systems for users, by analyzing user preferences and matching them with relevant TV shows and movies on the platform. Overall, the Netflix dataset is a valuable resource for data analysts and researchers interested in the streaming media industry and the behavior of consumers in the digital age.
 
-# Project Analysis:
+# Project Analysis
 - Understanding what content is available in different countries
 - Identifying similar content by matching text-based features
 - Network analysis of Actors / Directors and find interesting insights
@@ -33,7 +42,7 @@ The objective of the Netflix dataset is to analyze and understand the characteri
 - Content ratings and their distribution
 - Analysis of actors and directors with the most content
 
-# Visualizations:
+# Visualizations
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/71d98837-e2e0-49f2-9b07-3c3ac96ace1c)
 
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/5daed9ce-3f2d-4208-a847-01191fd94547)
@@ -68,7 +77,7 @@ The objective of the Netflix dataset is to analyze and understand the characteri
 
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/aa8db3b5-f2d6-4068-84b6-ba9d445fca89)
 
-# Insights:
+# Insights
 - Movies Vs Series Distribution:
   There are more movies available on Netflix compared to TV shows.
 - Movies Vs Series Distribution Over the Years:
