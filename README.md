@@ -1,6 +1,6 @@
-# Netflix_Analysis
+# Netflix_Analysis:
 ![image](https://github.com/DA-Atharv/Netflix_Analysis/assets/159448408/7d63027b-cebf-45e7-bf75-2cefab974e5b)
-## Table of Contents
+## Table of Contents:
 
 - [Introduction](#introduction)
 - [Data Dictionary](#data-dictionary)
